@@ -1,6 +1,6 @@
 module github.com/dexidp/dex
 
-go 1.22
+go 1.23.0
 
 toolchain go1.23.5
 
@@ -41,7 +41,7 @@ require (
 	golang.org/x/crypto v0.25.0
 	golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa
 	golang.org/x/net v0.27.0
-	golang.org/x/oauth2 v0.21.0
+	golang.org/x/oauth2 v0.27.0
 	google.golang.org/api v0.190.0
 	google.golang.org/grpc v1.65.0
 	google.golang.org/protobuf v1.34.2
